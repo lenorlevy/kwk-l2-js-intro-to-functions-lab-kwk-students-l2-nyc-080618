@@ -9,4 +9,6 @@ function discountTicket(oldPrice) {
   return newPrice;
 }
 
-
+function tweetReply(name) {
+  
+}
