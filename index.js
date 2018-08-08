@@ -10,5 +10,5 @@ function discountTicket(oldPrice) {
 }
 
 function tweetReply(name) {
-  
+  var tweet = "Hey " + name + ", thanks so much for the support!"
 }
