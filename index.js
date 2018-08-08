@@ -13,3 +13,5 @@ function tweetReply(name) {
   var tweet = "Hey " + name + ", thanks so much for the support! I really appreciate it!"
   return tweet;
 }
+
+tweetReply(Lenor);
