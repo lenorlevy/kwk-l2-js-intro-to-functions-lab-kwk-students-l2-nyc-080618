@@ -12,3 +12,4 @@ function discountTicket(oldPrice) {
 }
 
 discountTicket
+
