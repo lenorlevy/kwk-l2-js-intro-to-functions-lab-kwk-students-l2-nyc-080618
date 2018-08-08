@@ -4,12 +4,9 @@ function getUKTime() {
   return result;
 }
 
-getUKTime();
-
 function discountTicket(oldPrice) {
   var newPrice = oldPrice * 0.8;
   return newPrice;
 }
 
-discountTicket
 
