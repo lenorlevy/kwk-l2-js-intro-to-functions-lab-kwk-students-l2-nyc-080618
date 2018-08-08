@@ -4,4 +4,4 @@ function getUKTime(time) {
   return result;
 }
 
-getUKTime();
+getUKTime(time);
